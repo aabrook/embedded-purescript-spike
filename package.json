@@ -14,11 +14,12 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3",
+    "rewire": "^5.0.0",
     "typescript": "~3.7.2"
   },
   "scripts": {
     "start": "craco start",
-    "build": "craco build",
+    "build": "node ./scripts/build-non-split.js",
     "test": "craco test",
     "eject": "craco eject"
   },
