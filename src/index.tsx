@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import App, { PSCounter } from './App';
 import * as serviceWorker from './serviceWorker';
 
-import { jsCounter as Counter } from "./MyApp/Components/Counter.purs";
+// import { jsCounter as Counter } from "./MyApp/Components/Counter.purs";
 // const Counter = React.lazy(() => import('./Counter'))
 // ReactDOM.render(
 //   <React.StrictMode>
@@ -23,4 +23,4 @@ if (!thisWindow.components) {
   thisWindow.components = {}
 }
 
-thisWindow.components['purescript-app'] = { Counter }
+thisWindow.components['purescript-app'] = { Counter: PSCounter }

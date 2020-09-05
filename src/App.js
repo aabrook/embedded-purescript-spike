@@ -4,6 +4,7 @@ import './App.css';
 
 // import Counter from './Counter'
 import { jsCounter as Counter } from "./MyApp/Components/Counter.purs";
+export { jsCounter as PSCounter }  from "./MyApp/Components/Counter.purs";
 
 function App() {
   return (
