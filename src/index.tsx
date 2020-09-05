@@ -1,8 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App, { PSCounter } from './App';
+import App from './App';
 import * as serviceWorker from './serviceWorker';
+import { Counter }  from "./MyApp";
 
 // import { jsCounter as Counter } from "./MyApp/Components/Counter.purs";
 // const Counter = React.lazy(() => import('./Counter'))
@@ -23,6 +24,6 @@ if (!thisWindow.components) {
   thisWindow.components = {}
 }
 
-thisWindow.components['purescript-app'] = { Counter: PSCounter }
+thisWindow.components['purescript-app'] = { Counter }
 
-console.log('My counter: ', { PSCounter })
+console.log('My counter: ', { Counter })

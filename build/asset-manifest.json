@@ -1,18 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f361e03.css",
-    "main.js": "/static/js/main.da929e21.js",
-    "main.js.map": "/static/js/main.da929e21.js.map",
+    "main.css": "/static/css/main.5ecd60fb.css",
+    "main.js": "/static/js/main.c72ff60c.js",
+    "main.js.map": "/static/js/main.c72ff60c.js.map",
     "index.html": "/index.html",
-    "precache-manifest.acf60df6c6bdfadbe4378fb640542aa6.js": "/precache-manifest.acf60df6c6bdfadbe4378fb640542aa6.js",
+    "precache-manifest.87325de4a8252310d3e16779c48e3aa7.js": "/precache-manifest.87325de4a8252310d3e16779c48e3aa7.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.5f361e03.css.map": "/static/css/main.5f361e03.css.map",
-    "static/js/main.da929e21.js.LICENSE.txt": "/static/js/main.da929e21.js.LICENSE.txt",
-    "static/media/Counter.purs": "/static/media/Counter.f913eb0d.purs",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "static/css/main.5ecd60fb.css.map": "/static/css/main.5ecd60fb.css.map",
+    "static/media/Counter.purs": "/static/media/Counter.f913eb0d.purs"
   },
   "entrypoints": [
-    "static/css/main.5f361e03.css",
-    "static/js/main.da929e21.js"
+    "static/css/main.5ecd60fb.css",
+    "static/js/main.c72ff60c.js"
   ]
 }

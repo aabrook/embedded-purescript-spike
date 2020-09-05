@@ -1,0 +1,1 @@
+export { jsCounter as Counter }  from "./Components/Counter.purs";

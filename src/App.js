@@ -3,8 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 
 // import Counter from './Counter'
-import { jsCounter as Counter } from "./MyApp/Components/Counter.purs";
-export { jsCounter as PSCounter }  from "./MyApp/Components/Counter.purs";
+import { Counter } from "./MyApp";
 
 function App() {
   return (
