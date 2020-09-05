@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.5ecd60fb.css",
-    "main.js": "/static/js/main.c72ff60c.js",
-    "main.js.map": "/static/js/main.c72ff60c.js.map",
+    "main.css": "/static/css/main.5f361e03.css",
+    "main.js": "/static/js/main.6d2ffc66.js",
+    "main.js.map": "/static/js/main.6d2ffc66.js.map",
     "index.html": "/index.html",
-    "precache-manifest.87325de4a8252310d3e16779c48e3aa7.js": "/precache-manifest.87325de4a8252310d3e16779c48e3aa7.js",
+    "precache-manifest.27fd8cf46aba53151658ecb148072ada.js": "/precache-manifest.27fd8cf46aba53151658ecb148072ada.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.5ecd60fb.css.map": "/static/css/main.5ecd60fb.css.map",
-    "static/media/Counter.purs": "/static/media/Counter.f913eb0d.purs"
+    "static/css/main.5f361e03.css.map": "/static/css/main.5f361e03.css.map",
+    "static/js/main.6d2ffc66.js.LICENSE.txt": "/static/js/main.6d2ffc66.js.LICENSE.txt",
+    "static/media/Counter.purs": "/static/media/Counter.f913eb0d.purs",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/css/main.5ecd60fb.css",
-    "static/js/main.c72ff60c.js"
+    "static/css/main.5f361e03.css",
+    "static/js/main.6d2ffc66.js"
   ]
 }

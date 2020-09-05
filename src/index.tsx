@@ -7,12 +7,12 @@ import { Counter }  from "./MyApp";
 
 // import { jsCounter as Counter } from "./MyApp/Components/Counter.purs";
 // const Counter = React.lazy(() => import('./Counter'))
-// ReactDOM.render(
-//   <React.StrictMode>
-//     <App />
-//   </React.StrictMode>,
-//   document.getElementById('root')
-// );
+ReactDOM.render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>,
+  document.getElementById('other-root')
+);
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
