@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+import Counter from './Counter'
 // import { Counter }  from "./MyApp";
 
 // import { jsCounter as Counter } from "./MyApp/Components/Counter.purs";
@@ -19,11 +20,11 @@ ReactDOM.render(
 // Learn more about service workers: https://bit.ly/CRA-PWA
 serviceWorker.unregister();
 
-// const thisWindow: any = window
-// if (!thisWindow.components) {
-//   thisWindow.components = {}
-// }
+const thisWindow: any = window
+if (!thisWindow.components) {
+  thisWindow.components = {}
+}
 
-// thisWindow.components['purescript-app'] = { Counter }
+thisWindow.components['purescript-app'] = { Counter }
 
-// console.log('My counter: ', { Counter })
+console.log('My counter: ', { Counter })
