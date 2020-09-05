@@ -4,8 +4,8 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
-// import { jsCounter as Counter } from "./MyApp/Components/Counter.purs";
-const Counter = React.lazy(() => import('./Counter'))
+import { jsCounter as Counter } from "./MyApp/Components/Counter.purs";
+// const Counter = React.lazy(() => import('./Counter'))
 // ReactDOM.render(
 //   <React.StrictMode>
 //     <App />
