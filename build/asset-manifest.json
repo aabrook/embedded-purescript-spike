@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.5f361e03.css",
-    "main.js": "/static/js/main.43a18557.js",
-    "main.js.map": "/static/js/main.43a18557.js.map",
+    "main.js": "/static/js/main.da929e21.js",
+    "main.js.map": "/static/js/main.da929e21.js.map",
     "index.html": "/index.html",
-    "precache-manifest.4d01f077e5dff97c64849e0c682fe26f.js": "/precache-manifest.4d01f077e5dff97c64849e0c682fe26f.js",
+    "precache-manifest.acf60df6c6bdfadbe4378fb640542aa6.js": "/precache-manifest.acf60df6c6bdfadbe4378fb640542aa6.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.5f361e03.css.map": "/static/css/main.5f361e03.css.map",
-    "static/js/main.43a18557.js.LICENSE.txt": "/static/js/main.43a18557.js.LICENSE.txt",
+    "static/js/main.da929e21.js.LICENSE.txt": "/static/js/main.da929e21.js.LICENSE.txt",
     "static/media/Counter.purs": "/static/media/Counter.f913eb0d.purs",
     "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/css/main.5f361e03.css",
-    "static/js/main.43a18557.js"
+    "static/js/main.da929e21.js"
   ]
 }

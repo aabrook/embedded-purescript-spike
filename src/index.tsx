@@ -24,3 +24,5 @@ if (!thisWindow.components) {
 }
 
 thisWindow.components['purescript-app'] = { Counter: PSCounter }
+
+console.log('My counter: ', { PSCounter })
